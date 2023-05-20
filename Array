@@ -1,0 +1,11 @@
+var arr1 = ["Apple", "Orange"];
+
+var arr2 = ["Mango", "Banana", "Guava"];
+
+var fruits = arr1.concat(arr2);
+
+console.log(arr1);
+
+console.log(arr2);
+
+console.log(fruits);
